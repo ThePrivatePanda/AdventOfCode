@@ -1,5 +1,3 @@
-inp = open("input").read().split("\n")
-
 win_map = {
     "A": {
         "X": 4,
